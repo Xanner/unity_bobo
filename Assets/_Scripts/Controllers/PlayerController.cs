@@ -1,9 +1,9 @@
-﻿using System;
-using System.Collections;
+﻿using System.Collections;
+using _Scripts.Managers;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-namespace _Scripts
+namespace _Scripts.Controllers
 {
     public class PlayerController : MonoBehaviour
     {

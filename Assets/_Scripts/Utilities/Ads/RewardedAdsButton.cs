@@ -1,9 +1,9 @@
-﻿using UnityEngine;
+﻿using _Scripts.Managers;
+using UnityEngine;
 using UnityEngine.Advertisements;
-using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-namespace _Scripts
+namespace _Scripts.Utilities.Ads
 {
     [RequireComponent(typeof(Button))]
     public class RewardedAdsButton : MonoBehaviour, IUnityAdsListener

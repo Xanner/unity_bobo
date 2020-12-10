@@ -1,7 +1,7 @@
-﻿using System;
+﻿using _Scripts.Managers;
 using UnityEngine;
 
-namespace _Scripts
+namespace _Scripts.Controllers
 {
     public class BorderController : MonoBehaviour
     {

@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UDP;
 
-namespace _Scripts
+namespace _Scripts.Managers
 {
     public class UDPManager : MonoBehaviour, IInitListener
     {

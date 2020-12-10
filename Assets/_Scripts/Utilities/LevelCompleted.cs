@@ -2,7 +2,7 @@
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-namespace _Scripts
+namespace _Scripts.Utilities
 {
     public class LevelCompleted : MonoBehaviour
     {

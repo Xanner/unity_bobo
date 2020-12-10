@@ -1,7 +1,9 @@
-﻿using UnityEngine;
+﻿using _Scripts.Models;
+using _Scripts.Utilities;
+using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace _Scripts
+namespace _Scripts.Managers
 {
     public class MenuManager : MonoBehaviour
     {

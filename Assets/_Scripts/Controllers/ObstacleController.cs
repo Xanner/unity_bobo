@@ -1,8 +1,8 @@
-﻿using System;
-using System.Collections;
+﻿using System.Collections;
+using _Scripts.Managers;
 using UnityEngine;
 
-namespace _Scripts
+namespace _Scripts.Controllers
 {
     public class ObstacleController : MonoBehaviour
     {
@@ -10,14 +10,6 @@ namespace _Scripts
         [SerializeField] private AudioSource hitSound = null;
         [SerializeField] private AudioClip explosionSound = null;
         [SerializeField] private float shrinkScale = 1.5f;
-        private PlayerController _playerController;
-        private GameObject _player;
-
-        private void Start()
-        {
-            _player = GameObject.Find("Player");
-            _playerController = _player.GetComponent<PlayerController>();
-        }
 
         private void OnTriggerEnter(Collider other)
         {
@@ -28,11 +20,10 @@ namespace _Scripts
                 StartCoroutine(ScaleObject());
                 Destroy(other.gameObject);
                 Destroy(hitEffect, 3f);
-                //_playerController.LoadBullet();
             }
         }
-    
-        IEnumerator ScaleObject()
+
+        private IEnumerator ScaleObject()
         {
             float scaleDuration = 0.5f;                              
             Vector3 actualScale = transform.localScale;             

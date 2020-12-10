@@ -1,7 +1,8 @@
-﻿using UnityEngine;
+﻿using _Scripts.Managers;
+using UnityEngine;
 using UnityEngine.UI;
 
-namespace _Scripts
+namespace _Scripts.Utilities
 {
     public class TryAgainButton : MonoBehaviour
     {

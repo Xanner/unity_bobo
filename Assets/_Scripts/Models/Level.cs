@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _Scripts
+namespace _Scripts.Models
 {
     [Serializable]
     public class Level

@@ -1,9 +1,10 @@
 ﻿using System;
+using _Scripts.Models;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-namespace _Scripts
+namespace _Scripts.Utilities
 {
     public class LevelsButtonGenerator : MonoBehaviour
     {

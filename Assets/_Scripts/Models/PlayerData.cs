@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace _Scripts
+namespace _Scripts.Models
 {
     [Serializable]
     public class PlayerData

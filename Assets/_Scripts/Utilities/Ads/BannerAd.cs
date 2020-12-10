@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.Advertisements;
 
-namespace _Scripts
+namespace _Scripts.Utilities.Ads
 {
     public class BannerAd : MonoBehaviour {
 

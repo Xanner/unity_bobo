@@ -5,30 +5,40 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="_Scripts" t="Include">
-          <e p="BannerAd.cs" t="Include" />
-          <e p="BorderController.cs" t="Include" />
-          <e p="CameraShake.cs" t="Include" />
-          <e p="Level.cs" t="Include" />
-          <e p="LevelCompleted.cs" t="Include" />
-          <e p="LevelManager.cs" t="Include" />
-          <e p="LevelsButtonGenerator.cs" t="Include" />
-          <e p="LoadCoins.cs" t="Include" />
-          <e p="MenuManager.cs" t="Include" />
-          <e p="MoveUpAndDown.cs" t="Include" />
-          <e p="MovingWall.cs" t="Include" />
-          <e p="ObstacleController.cs" t="Include" />
-          <e p="PlayerChildrenController.cs" t="Include" />
-          <e p="PlayerController.cs" t="Include" />
-          <e p="PlayerData.cs" t="Include" />
-          <e p="RewardedAdsButton.cs" t="Include" />
-          <e p="RotateWalls.cs" t="Include" />
-          <e p="SaveSystem.cs" t="Include" />
-          <e p="SetSkin.cs" t="Include" />
-          <e p="Skin.cs" t="Include" />
-          <e p="SkinsManager.cs" t="Include" />
-          <e p="Timer.cs" t="Include" />
-          <e p="TryAgainButton.cs" t="Include" />
-          <e p="UDPManager.cs" t="Include" />
+          <e p="Controllers" t="Include">
+            <e p="BorderController.cs" t="Include" />
+            <e p="ObstacleController.cs" t="Include" />
+            <e p="PlayerChildrenController.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
+          </e>
+          <e p="Managers" t="Include">
+            <e p="LevelManager.cs" t="Include" />
+            <e p="MenuManager.cs" t="Include" />
+            <e p="SkinsManager.cs" t="Include" />
+            <e p="UDPManager.cs" t="Include" />
+          </e>
+          <e p="Models" t="Include">
+            <e p="Level.cs" t="Include" />
+            <e p="PlayerData.cs" t="Include" />
+            <e p="Skin.cs" t="Include" />
+          </e>
+          <e p="Utilities" t="Include">
+            <e p="Ads" t="Include">
+              <e p="BannerAd.cs" t="Include" />
+              <e p="RewardedAdsButton.cs" t="Include" />
+            </e>
+            <e p="CameraShake.cs" t="Include" />
+            <e p="LevelCompleted.cs" t="Include" />
+            <e p="LevelsButtonGenerator.cs" t="Include" />
+            <e p="LoadCoins.cs" t="Include" />
+            <e p="MoveUpAndDown.cs" t="Include" />
+            <e p="MovingWall.cs" t="Include" />
+            <e p="RotateWalls.cs" t="Include" />
+            <e p="SaveSystem.cs" t="Include" />
+            <e p="SetSkin.cs" t="Include" />
+            <e p="Timer.cs" t="Include" />
+            <e p="TryAgainButton.cs" t="Include" />
+          </e>
         </e>
         <e p="Catgear Games" t="Include">
           <e p="Model Pack 1" t="Include">

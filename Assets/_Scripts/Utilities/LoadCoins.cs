@@ -1,7 +1,8 @@
-﻿using UnityEngine;
+﻿using _Scripts.Models;
+using UnityEngine;
 using UnityEngine.UI;
 
-namespace _Scripts
+namespace _Scripts.Utilities
 {
     public class LoadCoins : MonoBehaviour
     {

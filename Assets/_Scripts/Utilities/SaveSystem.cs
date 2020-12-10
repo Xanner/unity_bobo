@@ -1,9 +1,10 @@
 ﻿using System.Collections.Generic;
 using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
+using _Scripts.Models;
 using UnityEngine;
 
-namespace _Scripts
+namespace _Scripts.Utilities
 {
     public static class SaveSystem
     {
