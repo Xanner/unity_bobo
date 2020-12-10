@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bae1d920-cb63-4328-9d22-5e6599603f10" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Bobo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Bobo/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Bobo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Bobo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/Animation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/Animation/CameraAnim.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/Animation/CameraAnim.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/Animation/CameraAnimator.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/Animation/CameraAnimator.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/Documentation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/Documentation/LowPolyWater.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/Documentation/LowPolyWater.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/LowPoly Island.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/LowPoly Island/Credits.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/LowPoly Island/Credits.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/LowPoly Island/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/LowPoly Island/Materials/IslandMat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/LowPoly Island/Materials/IslandMat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/LowPoly Island/Materials/defaultMat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/LowPoly Island/Materials/defaultMat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/LowPoly Island/island1_design2_c4d.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/LowPoly Island/island1_design2_c4d.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/LowPoly Island/textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/LowPoly Island/textures/textureAmbient_Occlusion.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/LowPoly Island/textures/textureAmbient_Occlusion.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/LowPoly Island/textures/textureSurface_Color_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/LowPoly Island/textures/textureSurface_Color_2.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/Materials/LowPolyWaterMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/Materials/LowPolyWaterMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/Plane Meshes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/Plane Meshes/Ocean50x50W750H750.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/Plane Meshes/Ocean50x50W750H750.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/Scripts/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/Scripts/Editor/GeneratePlane.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/Scripts/Editor/GeneratePlane.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/Scripts/LowPolyWater.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/Scripts/LowPolyWater.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/Shaders/WaterShaded.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/Shaders/WaterShaded.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/Textures/Foam.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/Textures/Foam.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/_Demo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/_Demo/DemoScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyWater_Pack/_Demo/DemoScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Stylize_Grass.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Stylize_Grass.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Stylize_Grass_diffuse.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Stylize_Grass_diffuse.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Vol_42_1_Base_Color.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Vol_42_1_Base_Color.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Vol_42_1_Normal.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Vol_42_1_Normal.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Scene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Scene/Stylized Grass Texture.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Scene/Stylized Grass Texture.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_42_1_Ambient_Occlusion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_42_1_Ambient_Occlusion.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_42_1_Base_Color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_42_1_Base_Color.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_42_1_Height.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_42_1_Height.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_42_1_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_42_1_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_42_1_Roughness.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_42_1_Roughness.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Background Elements.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Background Elements/Cloud.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Background Elements/Cloud.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Background Elements/Mountains.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Background Elements/Mountains.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Demo Scene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Demo Scene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Demo SceneSettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Demo SceneSettings.lighting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Editor/ImageEffects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Editor/ImageEffects/AntialiasingEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Editor/ImageEffects/AntialiasingEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Editor/ImageEffects/BloomAndFlaresEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Editor/ImageEffects/BloomAndFlaresEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Editor/ImageEffects/BloomEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Editor/ImageEffects/BloomEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Editor/ImageEffects/CameraMotionBlurEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Editor/ImageEffects/CameraMotionBlurEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Editor/ImageEffects/ColorCorrectionCurvesEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Editor/ImageEffects/ColorCorrectionCurvesEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Editor/ImageEffects/ColorCorrectionLookupEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Editor/ImageEffects/ColorCorrectionLookupEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Editor/ImageEffects/DepthOfFieldDeprecatedEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Editor/ImageEffects/DepthOfFieldDeprecatedEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Editor/ImageEffects/DepthOfFieldEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Editor/ImageEffects/DepthOfFieldEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Editor/ImageEffects/EdgeDetectionEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Editor/ImageEffects/EdgeDetectionEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Editor/ImageEffects/NoiseAndGrainEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Editor/ImageEffects/NoiseAndGrainEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Editor/ImageEffects/SunShaftsEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Editor/ImageEffects/SunShaftsEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Editor/ImageEffects/TonemappingEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Editor/ImageEffects/TonemappingEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Editor/ImageEffects/VignetteAndChromaticAberrationEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Editor/ImageEffects/VignetteAndChromaticAberrationEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/New Terrain.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/New Terrain.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Post FX Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Post FX Textures/LUT.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Post FX Textures/LUT.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Post FX Textures/Overlay.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Post FX Textures/Overlay.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/GlassRefraction.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/GlassRefraction/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/GlassRefraction/Materials/GlassRefractive.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/GlassRefraction/Materials/GlassRefractive.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/GlassRefraction/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/GlassRefraction/Shaders/GlassStainedBumpDistort.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/GlassRefraction/Shaders/GlassStainedBumpDistort.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/GlassRefraction/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/GlassRefraction/Textures/GlassStainedAlbedo.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/GlassRefraction/Textures/GlassStainedAlbedo.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/GlassRefraction/Textures/GlassStainedNormals.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/GlassRefraction/Textures/GlassStainedNormals.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/Antialiasing.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/Antialiasing.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/Bloom.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/Bloom.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/BloomAndFlares.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/BloomAndFlares.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/BloomOptimized.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/BloomOptimized.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/Blur.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/Blur.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/BlurOptimized.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/BlurOptimized.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/CameraMotionBlur.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/CameraMotionBlur.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionCurves.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionCurves.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionLookup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionLookup.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionRamp.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionRamp.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/ContrastEnhance.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/ContrastEnhance.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/ContrastStretch.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/ContrastStretch.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/CreaseShading.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/CreaseShading.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/DepthOfField.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/DepthOfField.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/DepthOfFieldDeprecated.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/DepthOfFieldDeprecated.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/EdgeDetection.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/EdgeDetection.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/Fisheye.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/Fisheye.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/GlobalFog.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/GlobalFog.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/Grayscale.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/Grayscale.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/ImageEffectBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/ImageEffectBase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/ImageEffects.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/ImageEffects.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/MotionBlur.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/MotionBlur.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/NoiseAndGrain.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/NoiseAndGrain.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/NoiseAndScratches.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/NoiseAndScratches.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsBase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsHelper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/Quads.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/Quads.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/ScreenOverlay.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/ScreenOverlay.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/ScreenSpaceAmbientObscurance.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/ScreenSpaceAmbientObscurance.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/ScreenSpaceAmbientOcclusion.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/ScreenSpaceAmbientOcclusion.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/SepiaTone.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/SepiaTone.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/SunShafts.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/SunShafts.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/TiltShift.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/TiltShift.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/Tonemapping.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/Tonemapping.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/Triangles.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/Triangles.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/Twirl.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/Twirl.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/VignetteAndChromaticAberration.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/VignetteAndChromaticAberration.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/Vortex.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Scripts/Vortex.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/BlendModesOverlay.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/BlendModesOverlay.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/BlurEffectConeTaps.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/BlurEffectConeTaps.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlur.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlur.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlurDX11.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlurDX11.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/ChromaticAberrationShader.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/ChromaticAberrationShader.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrection3DLut.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrection3DLut.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurves.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurves.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurvesSimple.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurvesSimple.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionEffect.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionEffect.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionSelective.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionSelective.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Adaptation.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Adaptation.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Apply.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Apply.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Luminance.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Luminance.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/MinMaxReduction.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/MinMaxReduction.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/ContrastComposite.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/ContrastComposite.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/ConvertDepth.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/ConvertDepth.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/CreaseApply.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/CreaseApply.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/EdgeDetectNormals.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/EdgeDetectNormals.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/FisheyeShader.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/FisheyeShader.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/GlobalFog.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/GlobalFog.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/GrayscaleEffect.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/GrayscaleEffect.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/MotionBlur.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/MotionBlur.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/MotionBlurClear.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/MotionBlurClear.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrain.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrain.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrainDX11.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrainDX11.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderRGB.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderRGB.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderYUV.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderYUV.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/PrepareSunShaftsBlur.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/PrepareSunShaftsBlur.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/RadialBlur.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/RadialBlur.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/SSAOShader.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/SSAOShader.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/ScreenSpaceAmbientObscurance.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/ScreenSpaceAmbientObscurance.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/SepiaToneEffect.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/SepiaToneEffect.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/ShowAlphaChannel.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/ShowAlphaChannel.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/SimpleClear.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/SimpleClear.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/SunShaftsComposite.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/SunShaftsComposite.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/Tonemapper.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/Tonemapper.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/TwirlEffect.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/TwirlEffect.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/VignettingShader.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/VignettingShader.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/VortexEffect.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/VortexEffect.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/DLAA.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/DLAA.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAA2.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAA2.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAA3Console.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAA3Console.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset2.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset2.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset3.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset3.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/NFAA.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/NFAA.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/SSAA.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/SSAA.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/Blend.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/Blend.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendForBloom.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendForBloom.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendOneOne.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendOneOne.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlurAndFlares.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlurAndFlares.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter2.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter2.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/LensFlareCreate.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/LensFlareCreate.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBloom.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBloom.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBlur.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBlur.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MultiPassHollywoodFlares.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MultiPassHollywoodFlares.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/SeparableBlurPlus.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/SeparableBlurPlus.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/VignetteShader.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/VignetteShader.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/Bokeh34.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/Bokeh34.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfField34.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfField34.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfFieldDX11.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfFieldDX11.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfFieldScatter.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfFieldScatter.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/SeparableBlur.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/SeparableBlur.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/SeparableWeightedBlurDof34.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/SeparableWeightedBlurDof34.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/TiltShiftHdrLensBlur.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/TiltShiftHdrLensBlur.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/frag_ao.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Shaders/frag_ao.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Textures/ContrastEnhanced3D16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Textures/ContrastEnhanced3D16.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Textures/HexShape.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Textures/HexShape.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Textures/MotionBlurJitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Textures/MotionBlurJitter.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Textures/Neutral3D16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Textures/Neutral3D16.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Textures/Noise.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Textures/Noise.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Textures/NoiseAndGrain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Textures/NoiseAndGrain.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Textures/NoiseEffectGrain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Textures/NoiseEffectGrain.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Textures/NoiseEffectScratch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Textures/NoiseEffectScratch.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Textures/RandomVectors.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Textures/RandomVectors.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Textures/SphereShape.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Textures/SphereShape.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Textures/VignetteMask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Textures/VignetteMask.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Textures/color correction ramp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Textures/color correction ramp.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Textures/grayscale ramp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ImageEffects/Textures/grayscale ramp.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/LightCookies.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/LightCookies/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/LightCookies/Textures/FlashlightCookie.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/LightCookies/Textures/FlashlightCookie.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/LightCookies/Textures/FlashlightIrregularCookie.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/LightCookies/Textures/FlashlightIrregularCookie.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/LightCookies/Textures/LightHardCookie.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/LightCookies/Textures/LightHardCookie.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/LightCookies/Textures/LightSoftCookie.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/LightCookies/Textures/LightSoftCookie.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/LightCookies/Textures/LightSquareCookie.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/LightCookies/Textures/LightSquareCookie.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/LightFlares.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/LightFlares/Flares.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/LightFlares/Flares/50mmZoom.flare" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/LightFlares/Flares/50mmZoom.flare.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/LightFlares/Flares/FlareSmall.flare" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/LightFlares/Flares/FlareSmall.flare.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/LightFlares/Flares/Sun.flare" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/LightFlares/Flares/Sun.flare.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/LightFlares/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/LightFlares/Materials/Flare50mm.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/LightFlares/Materials/Flare50mm.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/LightFlares/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/LightFlares/Textures/Flare50mm.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/LightFlares/Textures/Flare50mm.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/LightFlares/Textures/FlareStar.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/LightFlares/Textures/FlareStar.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Guidelines.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Guidelines.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Materials/GridProjector.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Materials/GridProjector.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Materials/LightProjector.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Materials/LightProjector.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Materials/ShadowProjector.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Materials/ShadowProjector.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Prefabs/BlobLightProjector.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Prefabs/BlobLightProjector.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Prefabs/BlobShadowProjector.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Prefabs/BlobShadowProjector.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Prefabs/GridProjector.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Prefabs/GridProjector.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Shaders/ProjectorLight.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Shaders/ProjectorLight.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Shaders/ProjectorMultiply.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Shaders/ProjectorMultiply.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Textures/Falloff.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Textures/Falloff.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Textures/Grid.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Textures/Grid.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Textures/Light.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Textures/Light.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Textures/Shadow.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/Projectors/Textures/Shadow.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/TessellationShaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/TessellationShaders/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/TessellationShaders/Materials/TesselatedBumpSpecular.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/TessellationShaders/Materials/TesselatedBumpSpecular.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/TessellationShaders/Materials/TesselatedBumpSpecularDisplacement.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/TessellationShaders/Materials/TesselatedBumpSpecularDisplacement.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/TessellationShaders/Materials/TesselatedBumpSpecularSmooth.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/TessellationShaders/Materials/TesselatedBumpSpecularSmooth.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/TessellationShaders/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/TessellationShaders/Models/LowPolySphere.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/TessellationShaders/Models/LowPolySphere.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/TessellationShaders/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/TessellationShaders/Scenes/TessellationSample.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/TessellationShaders/Scenes/TessellationSample.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/TessellationShaders/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/TessellationShaders/Shaders/BumpedSpecularDisplacement.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/TessellationShaders/Shaders/BumpedSpecularDisplacement.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/TessellationShaders/Shaders/BumpedSpecularSmooth.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/TessellationShaders/Shaders/BumpedSpecularSmooth.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/TessellationShaders/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/TessellationShaders/Textures/CliffHeight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/TessellationShaders/Textures/CliffHeight.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/TessellationShaders/Textures/CliffNormals.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/TessellationShaders/Textures/CliffNormals.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ToonShading.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ToonShading/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ToonShading/Materials/ToonBasic.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ToonShading/Materials/ToonBasic.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ToonShading/Materials/ToonBasicOutline.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ToonShading/Materials/ToonBasicOutline.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ToonShading/Materials/ToonLit.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ToonShading/Materials/ToonLit.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ToonShading/Materials/ToonLitOutline.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ToonShading/Materials/ToonLitOutline.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ToonShading/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ToonShading/Shaders/ToonBasic.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ToonShading/Shaders/ToonBasic.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ToonShading/Shaders/ToonBasicOutline.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ToonShading/Shaders/ToonBasicOutline.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ToonShading/Shaders/ToonLit.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ToonShading/Shaders/ToonLit.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ToonShading/Shaders/ToonLitOutline.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ToonShading/Shaders/ToonLitOutline.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ToonShading/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ToonShading/Textures/ToonLit.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ToonShading/Textures/ToonLit.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ToonShading/Textures/UtilToonGradient.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Demo Scene/Standard Assets/Effects/ToonShading/Textures/UtilToonGradient.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Grass.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Grass/grass_1.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Grass/grass_1.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Grass/grass_10.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Grass/grass_10.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Grass/grass_11.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Grass/grass_11.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Grass/grass_12.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Grass/grass_12.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Grass/grass_2.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Grass/grass_2.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Grass/grass_3.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Grass/grass_3.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Grass/grass_4.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Grass/grass_4.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Grass/grass_5.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Grass/grass_5.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Grass/grass_6.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Grass/grass_6.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Grass/grass_7.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Grass/grass_7.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Grass/grass_8.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Grass/grass_8.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Grass/grass_9.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Grass/grass_9.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Materials/bush_leaves_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Materials/bush_leaves_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Materials/bush_leaves_2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Materials/bush_leaves_2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Materials/spruce_branch.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Materials/spruce_branch.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Materials/spruce_frond_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Materials/spruce_frond_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Materials/spruce_frond_2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Materials/spruce_frond_2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Materials/tree_branch_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Materials/tree_branch_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Materials/tree_leaves_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Materials/tree_leaves_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Materials/tree_leaves_2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Materials/tree_leaves_2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Materials/tree_leaves_3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Materials/tree_leaves_3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Bush_1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Bush_1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Bush_1_Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Bush_1_Textures/diffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Bush_1_Textures/diffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Bush_1_Textures/normal_specular.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Bush_1_Textures/normal_specular.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Bush_1_Textures/shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Bush_1_Textures/shadow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Bush_1_Textures/translucency_gloss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Bush_1_Textures/translucency_gloss.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Bush_2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Bush_2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Bush_2_Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Bush_2_Textures/diffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Bush_2_Textures/diffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Bush_2_Textures/normal_specular.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Bush_2_Textures/normal_specular.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Bush_2_Textures/shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Bush_2_Textures/shadow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Bush_2_Textures/translucency_gloss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Bush_2_Textures/translucency_gloss.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_1_Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_1_Textures/diffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_1_Textures/diffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_1_Textures/normal_specular.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_1_Textures/normal_specular.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_1_Textures/shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_1_Textures/shadow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_1_Textures/translucency_gloss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_1_Textures/translucency_gloss.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_2_Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_2_Textures/diffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_2_Textures/diffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_2_Textures/normal_specular.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_2_Textures/normal_specular.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_2_Textures/shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_2_Textures/shadow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_2_Textures/translucency_gloss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_2_Textures/translucency_gloss.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_3_Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_3_Textures/diffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_3_Textures/diffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_3_Textures/normal_specular.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_3_Textures/normal_specular.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_3_Textures/shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_3_Textures/shadow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_3_Textures/translucency_gloss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Spruce_3_Textures/translucency_gloss.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_1_Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_1_Textures/diffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_1_Textures/diffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_1_Textures/normal_specular.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_1_Textures/normal_specular.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_1_Textures/shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_1_Textures/shadow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_1_Textures/translucency_gloss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_1_Textures/translucency_gloss.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_2_Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_2_Textures/diffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_2_Textures/diffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_2_Textures/normal_specular.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_2_Textures/normal_specular.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_2_Textures/shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_2_Textures/shadow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_2_Textures/translucency_gloss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_2_Textures/translucency_gloss.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_3_Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_3_Textures/diffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_3_Textures/diffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_3_Textures/normal_specular.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_3_Textures/normal_specular.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_3_Textures/shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_3_Textures/shadow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_3_Textures/translucency_gloss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Models/Tree_3_Textures/translucency_gloss.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Textures/bush_leaves.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Textures/bush_leaves.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Textures/bush_leaves_2.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Textures/bush_leaves_2.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Textures/spruce_bark_albedo.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Textures/spruce_bark_albedo.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Textures/spruce_bark_normal.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Textures/spruce_bark_normal.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Textures/spruce_frond_1.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Textures/spruce_frond_1.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Textures/spruce_frond_2.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Textures/spruce_frond_2.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Textures/tree_bark_albedo.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Textures/tree_bark_albedo.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Textures/tree_bark_normal_1.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Textures/tree_bark_normal_1.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Textures/tree_leaves_1.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Textures/tree_leaves_1.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Textures/tree_leaves_2.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Textures/tree_leaves_2.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Textures/tree_leaves_3.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Nature/Trees/Textures/tree_leaves_3.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Particles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Particles/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Particles/Materials/Fog.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Particles/Materials/Fog.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Particles/Materials/Sun_Shafts.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Particles/Materials/Sun_Shafts.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Particles/Materials/ember_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Particles/Materials/ember_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Particles/Materials/falling_leaves.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Particles/Materials/falling_leaves.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Particles/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Particles/Textures/Ember.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Particles/Textures/Ember.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Particles/Textures/Fog.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Particles/Textures/Fog.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Particles/Textures/SunShaft.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Particles/Textures/SunShaft.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Particles/Textures/leaf.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Particles/Textures/leaf.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Particles/_Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Particles/_Prefabs/Dust.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Particles/_Prefabs/Dust.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Particles/_Prefabs/Falling Leaves.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Particles/_Prefabs/Falling Leaves.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Particles/_Prefabs/Ground Fog.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Particles/_Prefabs/Ground Fog.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Particles/_Prefabs/Sun Shafts.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Particles/_Prefabs/Sun Shafts.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Detail Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Detail Textures/stone_detail_albedo.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Detail Textures/stone_detail_albedo.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Detail Textures/stone_detail_normal.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Detail Textures/stone_detail_normal.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Pebble.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Pebble/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Pebble/Materials/PebbleMat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Pebble/Materials/PebbleMat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Pebble/Pebble 2.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Pebble/Pebble 2.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Pebble/Pebble.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Pebble/Pebble.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 1/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 1/Materials/stone_1Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 1/Materials/stone_1Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 1/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 1/Textures/stone_1_normal.TGA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 1/Textures/stone_1_normal.TGA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 1/Textures/stone_1_occlusion.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 1/Textures/stone_1_occlusion.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 1/stone_1.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 1/stone_1.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 2/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 2/Materials/stone_2Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 2/Materials/stone_2Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 2/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 2/Textures/stone_2_normal.TGA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 2/Textures/stone_2_normal.TGA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 2/Textures/stone_2_occlusion.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 2/Textures/stone_2_occlusion.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 2/stone_2.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 2/stone_2.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 3/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 3/Materials/stone_3Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 3/Materials/stone_3Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 3/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 3/Textures/stone_3_normal.TGA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 3/Textures/stone_3_normal.TGA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 3/Textures/stone_3_occlusion.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 3/Textures/stone_3_occlusion.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 3/stone_3.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 3/stone_3.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 4.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 4/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 4/Materials/stone_4Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 4/Materials/stone_4Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 4/Stone_4.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 4/Stone_4.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 4/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 4/Textures/stone_4_normal.TGA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 4/Textures/stone_4_normal.TGA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 4/Textures/stone_4_occlusion.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 4/Textures/stone_4_occlusion.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 5.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 5/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 5/Materials/stone_5Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 5/Materials/stone_5Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 5/Stone_5.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 5/Stone_5.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 5/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 5/Textures/stone_5_normal.TGA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 5/Textures/stone_5_normal.TGA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 5/Textures/stone_5_occlusion.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 5/Textures/stone_5_occlusion.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 6.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 6/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 6/Materials/stone_6Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 6/Materials/stone_6Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 6/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 6/Textures/stone_6_normal.TGA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 6/Textures/stone_6_normal.TGA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 6/Textures/stone_6_occlusion.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 6/Textures/stone_6_occlusion.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 6/stone_6.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 6/stone_6.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 7.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 7/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 7/Materials/stone_7Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 7/Materials/stone_7Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 7/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 7/Textures/stone_7_normal.TGA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 7/Textures/stone_7_normal.TGA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 7/Textures/stone_7_occlusion.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 7/Textures/stone_7_occlusion.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 7/stone_7.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Stone Models/Stone 7/stone_7.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Tiling Stone Material.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Tiling Stone Material/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Tiling Stone Material/Textures/tiling_stone_height.PSD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Tiling Stone Material/Textures/tiling_stone_height.PSD.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Tiling Stone Material/Textures/tiling_stone_normal.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Tiling Stone Material/Textures/tiling_stone_normal.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Tiling Stone Material/Textures/tiling_stone_occlusion.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Tiling Stone Material/Textures/tiling_stone_occlusion.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Tiling Stone Material/tiling_stone.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/Tiling Stone Material/tiling_stone.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/_Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/_Prefabs/Pebble_1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/_Prefabs/Pebble_1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/_Prefabs/Pebble_2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/_Prefabs/Pebble_2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/_Prefabs/Stone_1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/_Prefabs/Stone_1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/_Prefabs/Stone_2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/_Prefabs/Stone_2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/_Prefabs/Stone_3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/_Prefabs/Stone_3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/_Prefabs/Stone_4.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/_Prefabs/Stone_4.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/_Prefabs/Stone_5.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/_Prefabs/Stone_5.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/_Prefabs/Stone_6.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/_Prefabs/Stone_6.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/_Prefabs/Stone_7.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Stones/_Prefabs/Stone_7.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/Materials/ground_A_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/Materials/ground_A_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/Materials/ground_A_3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/Materials/ground_A_3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/Materials/stone_normal.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/Materials/stone_normal.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/grass_1.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/grass_1.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/ground_A_1.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/ground_A_1.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/ground_A_3.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/ground_A_3.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/ground_A_4.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/ground_A_4.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/ground_A_5.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/ground_A_5.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/ground_A_normal.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/ground_A_normal.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/ground_B_1.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/ground_B_1.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/ground_B_2.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/ground_B_2.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/ground_B_normal.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/ground_B_normal.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/stone_1.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/stone_1.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/stone_2.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/stone_2.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/stone_normal.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Terrain/stone_normal.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Tutorial.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Nature Pack/Tutorial.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Prefabs/LevelMaker/LevelManager.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Prefabs/LevelMaker/LevelManager.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/LevelManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/LevelManager.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JSON File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../Program Files/Unity/Hub/Editor/2020.1.8f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/SkinsManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/MenuManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/SaveSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/RotateWalls.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Timer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/open-project-1-devlog-1-toon-shading/NetworkTest/Assets/Scripts/GameManager/GameManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Program Files/Unity/Hub/Editor/2020.1.8f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/ColorBlock.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/MovingWall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/SetSkin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/open-project-1-devlog-1-toon-shading/NetworkTest/Assets/Scripts/GameManager/GameState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/BannerAd.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LevelsButtonGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Program Files/Unity/Hub/Editor/2020.1.8f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/UIBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerChildrenController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BorderController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RewardedAdsButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/LevelComplete.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/TryAgainButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/PlayerChildrenController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/CameraShake.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/PlyerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/MovingWall.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/MoveUpAndDown.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/RotateWalls.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/player_data.json" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Level.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/LevelCompleted.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Timer.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/LoadCoins.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/ObstacleController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/PlayerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Skin.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/SaveSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/SetSkin.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/BannerAd.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/SkinConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/MenuManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/LevelsButtonGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/SkinsManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/BorderController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/RewardedAdsButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/UDPManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/LevelManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ilYvvlLamzUDlxpmedg5xm8LSa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34991118" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30017763" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bae1d920-cb63-4328-9d22-5e6599603f10" name="Default Changelist" comment="" />
+      <created>1602483886459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602483886459</updated>
+      <workItem from="1602483889233" duration="1799000" />
+      <workItem from="1602497426135" duration="23000" />
+      <workItem from="1602498301217" duration="1186000" />
+      <workItem from="1602502185014" duration="865000" />
+      <workItem from="1602506585098" duration="7637000" />
+      <workItem from="1602594990352" duration="7604000" />
+      <workItem from="1602681074139" duration="707000" />
+      <workItem from="1602681901762" duration="381000" />
+      <workItem from="1602682348929" duration="87000" />
+      <workItem from="1602682511073" duration="3575000" />
+      <workItem from="1602852529430" duration="609000" />
+      <workItem from="1603031098564" duration="4064000" />
+      <workItem from="1603108382179" duration="3001000" />
+      <workItem from="1603277074706" duration="13931000" />
+      <workItem from="1604061388002" duration="4522000" />
+      <workItem from="1604070931911" duration="1374000" />
+      <workItem from="1604324126811" duration="2944000" />
+      <workItem from="1604926458993" duration="994000" />
+      <workItem from="1605011136479" duration="16843000" />
+      <workItem from="1605095996571" duration="8778000" />
+      <workItem from="1605118746896" duration="1476000" />
+      <workItem from="1605212380845" duration="814000" />
+      <workItem from="1605719827103" duration="6209000" />
+      <workItem from="1605788773743" duration="7707000" />
+      <workItem from="1605809469754" duration="2074000" />
+      <workItem from="1606134651181" duration="12077000" />
+      <workItem from="1606389806763" duration="6100000" />
+      <workItem from="1607467402734" duration="1026000" />
+      <workItem from="1607598457989" duration="1922000" />
+      <workItem from="1607609386005" duration="1362000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="282" y="117" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602681710366">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="282" y="117" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1200.760@0.0.1200.760" timestamp="1602681710366" />
+    <state width="430" height="436" key="DebuggerActiveHint" timestamp="1606147127294">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state width="430" height="436" key="DebuggerActiveHint/0.0.1200.760@0.0.1200.760" timestamp="1606147127294" />
+    <state width="1157" height="172" key="GridCell.Tab.0.bottom" timestamp="1607468442152">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state width="1157" height="172" key="GridCell.Tab.0.bottom/0.0.1200.760@0.0.1200.760" timestamp="1607468442152" />
+    <state width="1157" height="172" key="GridCell.Tab.0.center" timestamp="1607468442152">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state width="1157" height="172" key="GridCell.Tab.0.center/0.0.1200.760@0.0.1200.760" timestamp="1607468442152" />
+    <state width="1157" height="172" key="GridCell.Tab.0.left" timestamp="1607468442152">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state width="1157" height="172" key="GridCell.Tab.0.left/0.0.1200.760@0.0.1200.760" timestamp="1607468442152" />
+    <state width="1157" height="172" key="GridCell.Tab.0.right" timestamp="1607468442152">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state width="1157" height="172" key="GridCell.Tab.0.right/0.0.1200.760@0.0.1200.760" timestamp="1607468442152" />
+    <state width="1157" height="172" key="GridCell.Tab.1.bottom" timestamp="1607468442152">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state width="1157" height="172" key="GridCell.Tab.1.bottom/0.0.1200.760@0.0.1200.760" timestamp="1607468442152" />
+    <state width="1157" height="172" key="GridCell.Tab.1.center" timestamp="1607468442152">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state width="1157" height="172" key="GridCell.Tab.1.center/0.0.1200.760@0.0.1200.760" timestamp="1607468442152" />
+    <state width="1157" height="172" key="GridCell.Tab.1.left" timestamp="1607468442152">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state width="1157" height="172" key="GridCell.Tab.1.left/0.0.1200.760@0.0.1200.760" timestamp="1607468442152" />
+    <state width="1157" height="172" key="GridCell.Tab.1.right" timestamp="1607468442152">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state width="1157" height="172" key="GridCell.Tab.1.right/0.0.1200.760@0.0.1200.760" timestamp="1607468442152" />
+    <state width="1157" height="172" key="GridCell.Tab.2.bottom" timestamp="1607468442152">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state width="1157" height="172" key="GridCell.Tab.2.bottom/0.0.1200.760@0.0.1200.760" timestamp="1607468442152" />
+    <state width="1157" height="172" key="GridCell.Tab.2.center" timestamp="1607468442152">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state width="1157" height="172" key="GridCell.Tab.2.center/0.0.1200.760@0.0.1200.760" timestamp="1607468442152" />
+    <state width="1157" height="172" key="GridCell.Tab.2.left" timestamp="1607468442152">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state width="1157" height="172" key="GridCell.Tab.2.left/0.0.1200.760@0.0.1200.760" timestamp="1607468442152" />
+    <state width="1157" height="172" key="GridCell.Tab.2.right" timestamp="1607468442152">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state width="1157" height="172" key="GridCell.Tab.2.right/0.0.1200.760@0.0.1200.760" timestamp="1607468442152" />
+    <state width="1157" height="172" key="GridCell.Tab.3.bottom" timestamp="1607468442152">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state width="1157" height="172" key="GridCell.Tab.3.bottom/0.0.1200.760@0.0.1200.760" timestamp="1607468442152" />
+    <state width="1157" height="172" key="GridCell.Tab.3.center" timestamp="1607468442152">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state width="1157" height="172" key="GridCell.Tab.3.center/0.0.1200.760@0.0.1200.760" timestamp="1607468442152" />
+    <state width="1157" height="172" key="GridCell.Tab.3.left" timestamp="1607468442152">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state width="1157" height="172" key="GridCell.Tab.3.left/0.0.1200.760@0.0.1200.760" timestamp="1607468442152" />
+    <state width="1157" height="172" key="GridCell.Tab.3.right" timestamp="1607468442152">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state width="1157" height="172" key="GridCell.Tab.3.right/0.0.1200.760@0.0.1200.760" timestamp="1607468442152" />
+    <state x="435" y="83" key="RiderGenerateDialog" timestamp="1607467450820">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="435" y="83" key="RiderGenerateDialog/0.0.1200.760@0.0.1200.760" timestamp="1607467450820" />
+    <state x="111" y="26" key="SettingsEditor" timestamp="1602682637349">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="111" y="26" key="SettingsEditor/0.0.1200.760@0.0.1200.760" timestamp="1602682637349" />
+    <state x="156" y="111" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1605100910024">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="156" y="111" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1200.760@0.0.1200.760" timestamp="1605100910024" />
+    <state x="258" y="172" key="run.anything.popup" timestamp="1603281355098">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="258" y="172" key="run.anything.popup/0.0.1200.760@0.0.1200.760" timestamp="1603281355098" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/_Scripts/UDPManager.cs</url>
+          <line>13</line>
+          <properties documentPath="C:\Projects\Bobo\Assets\_Scripts\UDPManager.cs" initialLine="13">
+            <startOffsets>
+              <option value="275" />
+            </startOffsets>
+            <endOffsets>
+              <option value="276" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
