@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -107981364, guid: 741884b37a0234d86bb740e55081cd5f, type: 3}
+  m_Name: UDP Settings
+  m_EditorClassIdentifier: 
+  UnityProjectID: ccd4af66-e72c-4fff-9702-dd258f921a2f
+  UnityClientID: IvJsfeqD39sfrqiyXhC6Sw
+  UnityClientKey: hAP_UQ36mT0i9t3qsiMSMUNW_evNLDGkIhP2uT5Y1pU
+  UnityClientRSAPublicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyJeAONJ3tPNe+uAIl6L65cYOnCP+oXB1fo2+TJJDaFnifHqyWQLakuMN3i9Yz60YZLdPKIRXsPyhJtqg3tOYPBx/o/17wSQyrqey3htynwSttqSM0X+anrHByJu3eIx5n0KfvIzaN9jc6Eg/aHZxly4jL0zXhv6asWu+99zaLqbg2XpOSWtdUiYd0ZCDYGU119p4lbLXrwb4aAPoeATyFuK1QEj0YDxJdPZupQ83vJMefU5e0GBTdks65XegoMfRh2+0UD1C/ME/Cngk2jyyVqVAHmkvRTTLCOWUouYqc2LsrGs/mfA3dbupplEFa4ibMBu8iWdThfXwyOjVGy5tuQIDAQAB
+  AppName: Bobo
+  AppSlug: dfee437e-93ec-4146-9d12-68a9385f50cf
+  AppItemId: 5fcfe5dbe4b9c80020a695a2
+  Permission: 
